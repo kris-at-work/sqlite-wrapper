@@ -14,22 +14,19 @@ Just put the file **wrapper.py** in your project directory and **import** into t
 Just Python standard library.
 
 ## Examples
-
-<div style="display: flex;flex-direction:column;" id="content">
-    <a href="#connect"> > connect()</a>
-    <a href="#create_table"> > create_table()</a>
-    <a href="#set_table"> > set_table()</a>
-    <a href="#push"> > push()</a>
-    <a href="#push_array"> > push_array()</a>
-    <a href="#get"> > get()</a>
-    <a href="#where"> > * "WHERE" options</a>
-    <a href="#exist"> > exist()</a>
-    <a href="#delete"> > delete()</a>
-    <a href="#update"> > update()</a>
-    <a href="#drop_table"> > drop_table()</a>
-    <a href="#query"> > query()</a>
-    <a href="#close"> > close()</a>
-</div>
+<a href="#connect"> > connect()</a><br>
+<a href="#create_table"> > create_table()</a><br>
+<a href="#set_table"> > set_table()</a><br>
+<a href="#push"> > push()</a><br>
+<a href="#push_array"> > push_array()</a><br>
+<a href="#get"> > get()</a><br>
+<a href="#where"> > * "WHERE" options</a><br>
+<a href="#exist"> > exist()</a><br>
+<a href="#delete"> > delete()</a><br>
+<a href="#update"> > update()</a><br>
+<a href="#drop_table"> > drop_table()</a><br>
+<a href="#query"> > query()</a><br>
+<a href="#close"> > close()</a><br>
 
 <br>
 
